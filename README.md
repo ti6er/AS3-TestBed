@@ -1,4 +1,4 @@
 AS3-TestBed
 ===========
 
-An action script performance test bed.
+A test bed for evaluating action script 3 performance.
